@@ -1,0 +1,1 @@
+xdg-open gcov_report/index.html
